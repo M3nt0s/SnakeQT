@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/button.jpg</file>
+        <file>img/food.png</file>
+        <file>img/fruit2.png</file>
+        <file>img/fruit3.png</file>
+        <file>img/board1.jpg</file>
+        <file>img/board2.jpg</file>
+        <file>img/board3.jpg</file>
+        <file>img/board4.jpg</file>
+        <file>img/board5.jpg</file>
+        <file>sound/crash.mp3</file>
+        <file>sound/down.mp3</file>
+        <file>sound/eat.mp3</file>
+        <file>sound/left.mp3</file>
+        <file>sound/right.mp3</file>
+        <file>sound/up.mp3</file>
+        <file>img/button_hover.png</file>
+        <file>img/button_pressed.png</file>
+        <file>sound/back.mp3</file>
+        <file>sound/hover.mp3</file>
+        <file>sound/pick.mp3</file>
+        <file>img/menu.png</file>
+        <file>img/headDown.png</file>
+        <file>img/headLeft.png</file>
+        <file>img/headRight.png</file>
+        <file>img/headUp.png</file>
+        <file>img/grass.jpg</file>
+        <file>img/black.jpg</file>
+        <file>img/fireball.png</file>
+        <file>img/boss1.png</file>
+        <file>img/boss2.png</file>
+        <file>img/boss3.png</file>
+        <file>img/boss4.png</file>
+        <file>img/brick.png</file>
+        <file>sound/background.mp3</file>
+        <file>sound/explosion.mp3</file>
+        <file>sound/boss_sound.mp3</file>
+        <file>sound/fireball.mp3</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
